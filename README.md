@@ -1,5 +1,28 @@
 # notes
 
+3996
+
+commit/7497a834527f54d1e7005bb854239261466711b5
+
+https://snapcraft.io/microk8s
+
+cd3d7b19fd9fbd54730216bcfe846793650a9084
+
+cd9822006ec76225f21f7f3fb5bf506019c4a87c
+
+75ca440042d0e91c36b5d4fe780a49f37b0778a6
+
+fcaf35356bd8691ca30651e561db723b21bff054
+
+8c2af954ff8538f4677c5f6052af6ca5b8b4e255
+
+
+https://wiki.archlinux.org/index.php/Multiboot_USB_drive#Configuring_GRUB
+
+https://github.com/ashang/vagrant-vbguest         
+
+81269c0694fd32462357d3461f5ed01fd0b4e4ac
+
 https://www.voyax.me/posts/95b9b99d/
 
 http://www.cplusplus.com/reference/
